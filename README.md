@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Vladislav
+Hi there! 👋 I'm Vladyslav
 
 🎓 I'm 20 years old, originally from Ukraine, and currently studying in Germany at Technische Hochschule Ulm, where I'm in my 5th semester. My main focus is software development, and I primarily work with Java, Spring Boot, ReactJS, and RestAPI.
 
