@@ -31,3 +31,4 @@ DevOps: Docker, Git
 
 💡 I'm always open to new projects and collaborations. If you have any interesting ideas or proposals, feel free to reach out!
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VKVlad&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
